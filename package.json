@@ -1,0 +1,16 @@
+{
+  "name": "dmp-users-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "import-files.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@keycloak/keycloak-admin-client": "^21.0.2",
+    "mongodb": "^5.1.0"
+  }
+}
